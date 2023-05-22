@@ -1,5 +1,5 @@
 ﻿// Задача 2
-void Exponentiation (int a, int b)
+/*void Exponentiation (int a, int b)
 {
     int exp = a;
     for (int count = 1; count <= b - 1; count++)
@@ -11,10 +11,10 @@ int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input number B:");
 int numberB = Convert.ToInt32(Console.ReadLine());
 Exponentiation(numberA, numberB);
-
+*/
 
 // Задача 27
- void SumOfNumbers (int n)
+ /*void SumOfNumbers (int n)
  {
     int sum = 0;
     while (n > 0)
@@ -35,7 +35,7 @@ int digit = Convert.ToInt32(Console.ReadLine());
       {
         Console.WriteLine($"Sum of numbers to digit is {digit}");
       }   
-
+*/
 
 
 // Задача 29
